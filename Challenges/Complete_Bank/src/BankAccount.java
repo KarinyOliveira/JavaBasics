@@ -1,5 +1,4 @@
 //Author: Kariny Oliveira
-//Student Number: CT1004878
 
 //Abstract class BankAccount with the common methods and attributes
 public abstract class BankAccount {
