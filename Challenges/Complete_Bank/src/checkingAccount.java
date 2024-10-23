@@ -1,5 +1,4 @@
 //Author: Kariny Oliveira
-//Student Number: CT1004878
 
 //Child class that extends the parent class Bank Account
 public class checkingAccount extends BankAccount {
