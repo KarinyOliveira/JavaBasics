@@ -1,5 +1,4 @@
 //Author: Kariny Oliveira
-//Student Number: CT1004878
 
 //SavingAccount class that inherit the attributes and methods from Bank Account
 public class savingAccount extends BankAccount {
