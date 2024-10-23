@@ -1,0 +1,3 @@
+This is an example file
+Testing exceptions
+And Try catch statements
