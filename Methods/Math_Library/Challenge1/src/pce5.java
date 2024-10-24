@@ -1,5 +1,4 @@
 //Author: Kariny Oliveira
-//Student Number: CT1004878
 
 import java.lang.Math;
 import java.util.Scanner;
