@@ -1,5 +1,4 @@
 //Author: Kariny Oliveira
-//Student Number: CT1004878
 
 //import Scanner to get the user input
 import java.util.Scanner;
