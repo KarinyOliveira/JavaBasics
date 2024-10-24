@@ -1,5 +1,4 @@
 //Author: Kariny Oliveira
-//Student Number: CT1004878
 
 //Class Car that implements the Movable interface
 public class Car implements Movable {
