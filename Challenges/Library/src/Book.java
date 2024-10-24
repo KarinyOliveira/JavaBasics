@@ -1,5 +1,4 @@
 //Author: Kariny Oliveira
-//Student Number: CT1004878
 
 public class Book {
 	// enum with the status accepted by Book class
