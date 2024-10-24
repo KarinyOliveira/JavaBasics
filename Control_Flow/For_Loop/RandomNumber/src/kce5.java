@@ -1,5 +1,4 @@
-//Author: Kariny Oliveira    
-//Student Number: CT1004878
+//Author: Kariny Oliveira
 
 import java.util.Random;
 
