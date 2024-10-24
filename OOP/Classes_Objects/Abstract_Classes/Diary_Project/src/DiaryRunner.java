@@ -1,5 +1,4 @@
 //Author: Kariny Oliveira
-//Student Number: CT1004878
 
 import java.time.LocalDate;
 import java.awt.image.BufferedImage;
